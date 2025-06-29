@@ -1,6 +1,4 @@
-<center>
-    <h1>CodeFlux </h1>
-</center>
+<h1 align="center">CodeFlux</h1>
 
 <p>
             En CodeFlux creemos que el aprendizaje es un motor que impulsa el
