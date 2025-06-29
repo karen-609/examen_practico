@@ -4,7 +4,7 @@ import Button from '../Button/Button';
 const Navbar = () => {
   return (
     <nav className={styles.navbar}>
-      <h1>Mi Aplicación</h1>
+      <h1>CodeFlux</h1>
       <div className={styles.links}>
         <Button to="/">Inicio</Button>
         <Button to="/guide">Guía paso a paso</Button>
