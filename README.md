@@ -1,70 +1,43 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>
+            En CodeFlux creemos que el aprendizaje es un motor que impulsa el
+            crecimiento personal y profesional. Este proyecto nace con la
+            intención de hacer que entender React sea un proceso claro, cercano
+            y alcanzable para cualquier persona con ganas de construir, crear y
+            mejorar.
+          </p>
+          <br />
+          <p>
+            Sabemos que empezar en el mundo del desarrollo web puede parecer
+            abrumador, pero estamos convencidos de que, con los recursos
+            adecuados, cualquiera puede dominar herramientas como React y dar
+            pasos firmes hacia su crecimiento profesional y personal. No
+            necesitas saberlo todo para empezar, solo necesitas dar el primer
+            paso. Y cada avance, cada error y cada línea de código escrita es
+            una victoria que te acerca a tus metas.
+          </p>
+          <br />
+          <p>
+            CodeFlux es un espacio pensado para quienes quieren aprender de
+            forma práctica, enfrentando retos reales, con recursos que
+            convierten lo complejo en simple y lo teórico en aplicable.
+          </p>
+          <br />
+          <p>
+            Aquí encontrarás tips y buenas prácticas que te ayudarán a escribir
+            un mejor código al utilizar React, una guía práctica paso a paso
+            sobre cómo crear un proyecto en React desde cero e información de
+            interés que no solo te ayudarán a entender cómo funciona React, sino
+            también a desarrollar la confianza para crear tus propios proyectos
+            y enfrentar nuevos desafíos.
+          </p>
+          <br />
+          <p>
+            Este espacio es más que un blog; es un lugar para aprender, para
+            equivocarse, para crecer y para recordar que cada línea de código
+            que escribes es un paso más hacia tus metas.
+          </p>
+          <br />
+          <p>
+            Porque aprender nunca es un destino, sino un camino que se recorre
+            un proyecto a la vez.
+          </p>
